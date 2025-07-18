@@ -1,3 +1,5 @@
+/* https://leetcode.com/problems/duplicate-emails/description/ */
+  
 SELECT Email
 FROM Person
 WHERE Email IN (
